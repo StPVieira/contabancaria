@@ -98,8 +98,8 @@ public class Menu {
 		System.out.println(Cores.TEXT_GREEN_BOLD + Cores.ANSI_BLACK_BACKGROUND
 				+ "\n**********************************************************");
 		System.out.println("Projeto Desenvolvido por:                                 ");
-		System.out.println("Generation Brasil - generation@generation.org             ");
-		System.out.println("github.com/conteudoGeneration                             ");
+		System.out.println("Pedro Vieira - pedrohq.vieira168@gmail.com                ");
+		System.out.println("github.com/StPVieira                                      ");
 		System.out.println("**********************************************************");
 	}
 
