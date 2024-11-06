@@ -108,6 +108,7 @@ public class Menu {
 			Thread.sleep(milissegundos);
 		} catch (Exception e) {
 			Thread.currentThread().interrupt();
+			System.err.println("Thread interrompida durante o pause de " + milissegundos + " milissegundos.");
 		}
 	}
 
