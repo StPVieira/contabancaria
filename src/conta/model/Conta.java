@@ -55,11 +55,8 @@ public abstract class Conta {
 	}
 	
 	public void depositar(float valor) {
-		if(valor > 0) {
+		if(valor > 0) 
 			this.setSaldo(this.getSaldo() + valor);
-		}else {
-			System.out.println("Valor inválido!");
-		}
 	}
 	public void visualizar() {
 		String tipo = "";
